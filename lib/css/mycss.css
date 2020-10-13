@@ -1,0 +1,57 @@
+/* 自己写的样式 */
+
+/* 设置登录页的样式 */
+
+#title {
+    background-color: rgba(7, 218, 35, .8);
+}
+
+#mylogin {
+    background-color: rgba(0, 216, 151, 0.6);
+}
+
+/* 主页上设置每个英雄的宽高 */
+
+.row #my-table td {
+    line-height: 150px;
+}
+
+tr td img {
+    width: 250px;
+    height: 150px;
+}
+
+.row .page-title {
+    font-size: 20px;
+}
+
+/* 设置英雄列表的背景 */
+
+#my-table {
+    background-color: rgba(54, 54, 54, 0.4);
+}
+
+#main {
+    /* background: linear-gradient(45deg, #047bdd, #df4c54); */
+    background-color: rgba(0, 0, 0, .9);
+}
+
+thead {
+    background-color: #01493d3b;
+}
+
+th, td, table {
+    border: 0px solid rgb(102, 66, 66)!important;
+}
+
+tbody tr {
+    background-color: rgba(24, 48, 95,.8);
+}
+
+thead tr th, tbody tr td {
+    color: #fff;
+}
+
+#heroListTitle {
+    background-color: #c2aa3f;
+}
